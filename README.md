@@ -2,13 +2,13 @@
 
 This project automates the process of filling out a Google Form using Python and Selenium. The form is designed to simulate a **lead generation intake form** for small business advertising, asking questions about industry type, ad spend, marketing channels, and readiness to get started.
 
-The goal: control the browser to intelligently fill out form fields, just like a human would — but faster, more reliably, and repeatably.
+The goal: control the browser to intelligently fill out form fields, just like a human would, but faster, more reliably, and repeatably.
 
 ---
 
 ## Why I Made This
 
-I created this as a hands-on way to learn Selenium and browser automation. The form itself is fake — just a playground for simulating how small businesses might interact with marketing onboarding flows.
+I created this as a hands-on way to learn Selenium and browser automation. The form itself is fake. It's just a test for simulating how small businesses might interact with marketing onboarding flows.
 
 Working with Selenium feels a bit like **robotics for the browser**: you’re writing step-by-step instructions to manipulate real elements on screen. It forces you to slow down, think through page structure, and plan your logic clearly.
 
